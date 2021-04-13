@@ -1,3 +1,5 @@
+ # A repository used to train skills related to the version control system - Git.
+
 Zwykły tekst  
 _pochylonytekst_  
 **pogrubiony**
